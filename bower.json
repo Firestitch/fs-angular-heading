@@ -1,0 +1,16 @@
+{
+  "name": "fs-angular-heading", 
+  "description": "",
+  "main": [
+    "dist/heading.css"
+  ],
+  "authors": [
+    "Firestitch Inc."
+  ],
+  "license": "MIT",
+  "ignore": [
+    "src",
+    ".gitignore"
+  ],
+  "private": false
+}

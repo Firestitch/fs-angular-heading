@@ -1,0 +1,19 @@
+fs-heading {
+    color: #272727;
+    font-size: 20px;
+    height: 36px;
+    display: block;
+    vertical-align: middle;
+    position: relative;
+    line-height: 36px;
+    margin: 10px 0;
+}
+
+fs-heading fs-heading-actions {
+    position: absolute;
+    right: 0;
+}
+
+fs-heading fs-heading-actions .md-button {
+    margin: 0;
+}
